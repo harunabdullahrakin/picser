@@ -1,4 +1,4 @@
-# 🚀 Picser - Free GitHub Image Hosting with jsDelivr CDN
+# 🚀 Picser - Free GitHub Image Hosting with jsDelivr CDNN
 
 > **Lightning-fast, self-hostable image hosting using GitHub repositories and jsDelivr CDN. Get permanent URLs that work forever, even if your repo gets deleted.**
 
